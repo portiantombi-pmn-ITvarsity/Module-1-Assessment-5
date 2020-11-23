@@ -1,0 +1,15 @@
+.gallery img{
+    width: 100%
+}
+
+h2{
+    font-family: impact, fantasy;
+    text-align: center;
+    font-size: 30px;
+    color: palegreen;
+}
+
+p{
+    font-family: monospace;
+    color: purple;
+}
